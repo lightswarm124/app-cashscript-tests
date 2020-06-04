@@ -1,4 +1,4 @@
-pragma cashscript ^0.3.0;
+pragma cashscript ^0.4.0;
 
 contract Bip38(datasig userPWSig) {
   function spend(sig ownerSig, pubkey ownerPk, bytes password) {

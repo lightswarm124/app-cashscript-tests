@@ -4,7 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "@chris.troutner/bch-js": "^3.0.1",
     "bitbox-sdk": "^8.11.2",
-    "cashscript": "^0.3.3"
+    "cashscript": "^0.4.1"
   }
 }
